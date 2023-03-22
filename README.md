@@ -1,2 +1,2 @@
 
-# Hey, this is a small app work with React & RTK
+# Hey, this is a small app work with React & RTK with AsynkThunk
